@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi There 👋 I'm Kittinan Songkham
+I'm interested in Robotics, AI and Fullstack Development
 
-<!--
-**KitzSonx/KitzSonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" width="100"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-KitzSonx&style=flat-square&color=blue" alt="account counter"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 ทักษะที่ถนัด
+- C, C++, Python, JavaScript, Java
+- Robotics (ROS, Arduino, Microcontroller)
+- Web Development (React, Tailwind, Node)
+- AI/ML (LSTM, OpenCV, Model Training)
+
+## 🚀 โปรเจคเด่น
+| โปรเจค | เทคโนโลยี | ลิงก์ |
+|-------|-----------|------|
+| ระบบพยากรณ์น้ำท่วมด้วย LSTM | Python, LSTM, MySQL, Line Notify | [ดูโปรเจค](https://github.com/xxxx/water-level-forecast-lstm) |
+| หุ่นยนต์กู้ภัย microROS | C++, ROS, Ubuntu | [ดูโปรเจค](https://github.com/xxxx/robot-rescue) |
+
+## 📫 ติดต่อผมได้ที่
+Facebook:  
+Email:  
