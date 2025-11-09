@@ -42,14 +42,16 @@ I'm interested in Robotics, AI and Fullstack Development
 
 ---
 
-## 🔧 ทักษะที่ถนัด
-- C, C++, Python, JavaScript, Java
-- Robotics (ROS, Arduino, Microcontroller)
-- Web Development (React, Tailwind, Node)
-- AI/ML (LSTM, OpenCV, Model Training)
+## 🔧 Skills
+- **Programming**: C, C++, Python, JavaScript, Java
+- **Robotics**: ROS, Arduino, Microcontrollers
+- **Web Development**: React, Tailwind CSS, Node.js
+- **AI / Machine Learning**: LSTM, OpenCV, Model Training
 
-## 🚀 โปรเจคเด่น
-| โปรเจค | เทคโนโลยี | ลิงก์ |
+## 🚀 Featured Projects
+| Project | Technologies | Link |
 |-------|-----------|------|
-| ระบบพยากรณ์น้ำท่วมด้วย LSTM | Python, LSTM, MySQL, Line Notify | [ดูโปรเจค](https://github.com/xxxx/water-level-forecast-lstm) |
-| หุ่นยนต์กู้ภัย microROS | C++, ROS, Ubuntu | [ดูโปรเจค](https://github.com/xxxx/robot-rescue) |
+| Flood Forecasting System using LSTM | Python, LSTM, MySQL, Line Chatbot | [View Project](https://github.com/xxxx/water-level-forecast-lstm) |
+| Rescue Robot with microROS | Python, ROS, Ubuntu | [View Project](https://github.com/xxxx/robot-rescue) |
+| A* algorithm on grid in Robot Sim | C, C#, Robot Sim | [View Project](https://github.com/xxxx/Astar-algo) |
+| FloodEye: Water Level Monitoring via IP Camera | Python, SAM Model, Google Colab, RTSP, LINE Chatbot | [View Project](https://github.com/xxxx/Flood-eye) |
