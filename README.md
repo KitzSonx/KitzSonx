@@ -1,5 +1,5 @@
 # Hi There 👋 I'm Kittinan Songkham
-I'm interested in Robotics, AI and Fullstack Development
+Interested in Fullstack Dev, Competitive Programming, Robotics, AI and Cyber Security
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
